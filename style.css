@@ -1,94 +1,78 @@
-.bg-1{
-  background: url("https://c1.staticflickr.com/9/8287/7492768218_b5844607d7_b.jpg");
-  background-size: cover;
-  color: #ffffff;
+.bg-1 {
+	background: url("https://c1.staticflickr.com/9/8287/7492768218_b5844607d7_b.jpg");
+	background-size: cover;
+	color: #ffffff;
 }
-
 .bg-2 {
-  background:  url('http://www.officelovin.com/wp-content/uploads/2015/05/nclud-washington-dc-office-hh-740x464.jpg');
-  background-size: cover;
-  color: #ffffff;
-  margin: 20px 0 20px 0;
+	background: url('http://www.officelovin.com/wp-content/uploads/2015/05/nclud-washington-dc-office-hh-740x464.jpg');
+	background-size: cover;
+	color: #ffffff;
+	margin: 20px 0 20px 0;
 }
-
 .bg-3 {
-  background-color: #E0E0E0;
-  color: #555555;
+	background-color: #E0E0E0;
+	color: #555555;
 }
-
 .container-fluid {
-  padding-top: 70px;
-  padding-bottom: 70px;
+	padding-top: 70px;
+	padding-bottom: 70px;
 }
-
 .navbar {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  border: 0;
-  border-radius: 0;
-  margin-bottom: 0;
-  font-size: 12px;
-  letter-spacing: 5px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	letter-spacing: 5px;
 }
-
 .navbar-nav li a:hover {
-  color: #1abc9c !important;
+	color: #1abc9c !important;
 }
-
 .margin {
-  margin-bottom: 45px;
-  font-family: 'Cinzel', serif;
-  color: black;
-  font-size: 35px;
+	margin-bottom: 45px;
+	font-family: 'Cinzel', serif;
+	color: black;
+	font-size: 35px;
 }
-
 .boot {
-  font-size: 18px;
+	font-size: 18px;
 }
-
 .what {
-  margin-bottom: 45px;
-  font-size: 25px;
-  font-family: 'Quattrocento Sans', sans-serif;
-  letter-spacing: 2px;
-  color: black;
-  text-shadow: 2px 2px #F1F1F1;
-
+	margin-bottom: 45px;
+	font-size: 25px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	letter-spacing: 2px;
+	color: black;
+	text-shadow: 2px 2px #F1F1F1;
 }
-
 .who {
-  font-family: 'Quattrocento Sans', sans-serif;
-  letter-spacing: 4px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	letter-spacing: 4px;
 }
-
 .btn {
-  box-shadow: 10px 10px 5px #000000;
+	box-shadow: 10px 10px 5px #000000;
 }
-
 .twitter {
-height: 38px;
-width: 200px;
-border-radius: 10px;
-box-shadow: 10px 10px 5px #000000;
-font-size: 15px;
+	height: 38px;
+	width: 200px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #000000;
+	font-size: 15px;
 }
-
 .parl {
-  left: 175px;
+	left: 175px;
 }
-
 .skate {
-  left: 300px;
+	left: 300px;
 }
-
 .foot {
-  margin-top: 40px;
+	margin-top: 40px;
 }
-
 .pen1 {
-  font-size: 25px;
+	font-size: 25px;
 }
 .pen {
-  color: black;
-  font-weight: bolder;
+	color: black;
+	font-weight: bolder;
 }
